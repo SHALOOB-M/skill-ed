@@ -1,7 +1,7 @@
 # skill-ed
 Data is scraped from LinkedIn and is used for analyzing various skills required for different job roles 
 
-# 1. Data Scraping\n
+# 1. Data Scraping
   Selenium module of python is used for automating the LinkedIn page and job description is extracted for various job roles. It is then exported into json file to         avoid any data loss. 'scraper.py' is the python code used for scraping.
   
 # 2. Data Cleaning and extraction
